@@ -15,6 +15,8 @@ Note: for stx2m sequences, single-end iontorrent reads from strain E75_19 (BioSa
   2. stxm sequences: stx2m nt sequence was identified by BLAST of the stx2a gene region (X07865.1) to the draft genome from stx2m strain E75_19 (performed by Julie Shay); stx2a subunit A and B sequences (CAA30714.1, CAA30715.1) were used to confirm the stx2m the start/stop and spacer region and derive stx2m nt and translated aa sequences (performed by Kelly Weedmark). Sequences were verified by Torsten Seeman.
 
 
+How to cite:
+
 Provide github link (https://github.com/bmh-vteclab/ShigaToxin_Toxoid_Sequences) along with the current commit number (e.g. c2b6677).
 
 
