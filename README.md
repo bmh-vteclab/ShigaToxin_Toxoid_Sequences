@@ -8,12 +8,6 @@ NCBI accession numbers and other information used to generate the databases of g
 
 Sequences of Shiga toxin Toxoids are in: Shiga_Toxin_Toxoid_Sequences.txt
 
-Note: for stx2m sequences, single-end iontorrent reads from strain E75_19 (BioSample # SAMEA7019263) were assembled and stx2m sequences identified as follows:
-
-  1. Strain E75_19 assembly (performed by Julie Shay): Ion torrent reads (SRA ERX4245790) were assembled de novo using SPAdes v3.15.4 (--isolate and --iontorrent flags) after adapter removal with Sickle v1.33 (default SE parameters except for setting "qual-type" to "sanger") and quality trimming with Trimmomatic v0.39 (LEADING:25 TRAILING:25 MINLEN:50). The resulting draft genome was deposited into NCBI (GCA_025984515.1) and annotated with PGAP.
-
-  2. stxm sequences: stx2m nt sequence was identified by BLAST of the stx2a gene region (X07865.1) to the draft genome from stx2m strain E75_19 (performed by Julie Shay); stx2a subunit A and B sequences (CAA30714.1, CAA30715.1) were used to confirm the stx2m the start/stop and spacer region and derive stx2m nt and translated aa sequences (performed by Kelly Weedmark). Sequences were verified by Torsten Seeman.
-
 
 How to cite:
 
@@ -22,11 +16,9 @@ Provide github link (https://github.com/bmh-vteclab/ShigaToxin_Toxoid_Sequences)
 
 Authors:
 
-Alex Gill1, Tanis McMahon1, Kelly Weedmark1, Julie Shay2
+Alex Gill1, and Tanis McMahon1
 
   1Bureau of Microbial Hazards, 251 Sir Frederick Banting Driveway, PL2204E, Health Canada, Ottawa, Ontario, K1A 0K9
-  
-  2Bureau of Food Surveillance and Science Integration, 251 Sir Frederick Banting Driveway, PL2204E, Health Canada, Ottawa, Ontario, K1A 0K9
 
 
 References
