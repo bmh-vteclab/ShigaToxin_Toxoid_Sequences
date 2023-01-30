@@ -1,10 +1,10 @@
 # ShigaToxin_Toxoid_Sequences
-Sequences of Shiga toxin subtypes modified to encode a non-toxic (toxoid) mutant of Stx. These mutant sequences can be placed in a cloning plasmid and be used as a non-toxic control for PCR directly as a plasmid or as an E. coli transformant. This will allow for an easier and more accessible way to assess Shiga toxin PCRs for the inclusivity of all known shiga toxin subtypes.
+Sequences of Shiga toxin subtypes modified to encode a non-toxic (toxoid) mutant of Shiga toxin (Stx). These mutant sequences can be placed in a cloning plasmid and be used as a non-toxic control for PCR, either directly as a plasmid, or as an E. coli transformant. These sequences are intended to provide an accessible option for laboratories to assess the inclusivity of PCR protocols for Shiga toxin genes without biosecurity risks.
 
-The Shiga Toxin Toxoid (stxoid) sequences are altered from the wild type stx sequence that would produce an enzymatically inactive A subunit protein by modifying glutamate 167 to glutamine (Hovde et al., 1988) and arginine 170 to leucine (Yamasaki et al., 1991). The protein produced by these modifications have been demonstrated to have no toxicity compared to controls in studies with cell cultures, mice, pigs, and calves (Makino et al., 2001; Ishikawa et la., 2003; Ohmura-Hoshino et al., 2004; Wen et al., 2006; Kerner et al., 2015).
+The Shiga Toxin Toxoid (stxoid) sequences are altered from the wild type stx sequence, to code for an enzymatically inactive A subunit protein by substituting two amino acids in the active site. The amino acid substitutions are glutamate 167 to glutamine (Hovde et al., 1988) and arginine 170 to leucine (Yamasaki et al., 1991). Shiga toxin proteins with these amino acid substitutions have been demonstrated to have no toxicity in studies with cell cultures, mice, pigs, and calves (Makino et al., 2001; Ishikawa et la., 2003; Ohmura-Hoshino et al., 2004; Wen et al., 2006; Kerner et al., 2015).
 
 
-NCBI accession numbers and other information used to generate the databases of gene fragments are in: Accession_Numbers_and_info.txt
+NCBI accession numbers and other information used to generate the sequences are in: Accession_Numbers_and_info.txt
 
 Sequences of Shiga toxin Toxoids are in: Shiga_Toxin_Toxoid_Sequences.txt
 
@@ -16,9 +16,9 @@ Provide github link (https://github.com/bmh-vteclab/ShigaToxin_Toxoid_Sequences)
 
 Authors:
 
-Alex Gill1, and Tanis McMahon1
+Alex Gill, and Tanis McMahon
 
-  1Bureau of Microbial Hazards, 251 Sir Frederick Banting Driveway, PL2204E, Health Canada, Ottawa, Ontario, K1A 0K9
+Bureau of Microbial Hazards, 251 Sir Frederick Banting Driveway, PL2204E, Health Canada, Ottawa, Ontario, K1A 0K9
 
 
 References
